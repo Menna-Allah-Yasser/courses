@@ -23,7 +23,7 @@ public class Task2 {
         s1.setName("mna");
         //s1.setCourseToStudent(c1);
         System.out.println(c1.toString());
-        System.out.println();
+        //System.out.println();
         /*t1.setId(3);
         t1.setName("mnsor");
         t1.setTeacherCourse(c1);
